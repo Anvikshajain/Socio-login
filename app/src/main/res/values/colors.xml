@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#FF9301</color>
+    <color name="colorPrimaryDark">#FF3E2D</color>
+    <color name="colorSecondary">#E75370</color>
+    <color name="colorSecondaryDark">#C35CEF</color>
+
+    <color name="bg_btn_facebook_normal">#3C5194</color>
+    <color name="bg_btn_facebook_pressed">#304076</color>
+
+    <color name="bg_btn_google_plus_normal">#4875B4</color>
+    <color name="bg_btn_google_plus_pressed">#008CC9</color>
+</resources>

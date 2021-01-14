@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Socio Login</string>
+    <string name="sign_in_with_google">Sign in With Google</string>
+    <string name="facebook_app_id">322722388731287</string>
+    <string name="sign_in_with_fb">Sign In With FB</string>
+    <string name="u_name">Name</string>
+    <string name="Button_logout">Logout</string>
+    <string name="username">Username</string>
+    <string name="username_1">username</string>
+    <string name="email_1">Email</string>
+    <string name="emailaddress">email</string>
+    <string name="username_profile">Images</string>
+    <string name="email_pic">Images</string>
+    <string name="logout_pic">Images</string>
+    <string name="img_app_logo">LOGO</string>
+    <string name="login_logo">LOGO</string>
+    <string name="socio_login">Socio Login</string>
+</resources>
